@@ -15,13 +15,13 @@ This Android application implements a basic student registration form demonstrat
 ## Screenshots
 
 ### 1. Form Registration (Empty State)
-![Form Registration Empty](images/form_empty.png)
+![Form Registration Empty](images/form_empty.jpeg)
 
 ### 2. Form Registration (Filled State)
-![Form Registration Filled](images/form_filled.png)
+![Form Registration Filled](images/form_filled.jpeg)
 
 ### 3. Student Data Display
-![Student Data Display](images/data_display.png)
+![Student Data Display](images/data_display.jpeg)
 
 ## Tech Stack
 *   **Language:** Kotlin
