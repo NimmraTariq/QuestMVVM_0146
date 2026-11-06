@@ -14,6 +14,7 @@ import com.example.activity6.view.uicontroller.SiswaApp
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        // Enable edge-to-edge layout for immersive UI
         enableEdgeToEdge()
         setContent {
             Activity6Theme {
